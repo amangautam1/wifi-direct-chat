@@ -13,7 +13,7 @@ byte buffer are transferred between two entities. Normally, channels are in non-
 For example, SocketChannels are operate on non-blocking mode and are selectable. In other word,
 it is event-driven so you do not need a dedicate thread for each socket/channel to handle the request.
 
-
+:blue_heart:
 # Google Android Analytic Event tracking
 
 To use google analytics, all you need is stick libGoogleAnalytics.jar into your project's libs/ folder
